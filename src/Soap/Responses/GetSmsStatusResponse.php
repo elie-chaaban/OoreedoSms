@@ -1,10 +1,10 @@
 <?php
 
 
-namespace eliechaaban\Ooreedo\Soap\Responses;
+namespace eliechaaban\Ooredoo\Soap\Responses;
 
 
-use eliechaaban\Ooreedo\Xml\XmlElement;
+use eliechaaban\Ooredoo\Xml\XmlElement;
 use Exception;
 use SimpleXMLElement;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace eliechaaban\Ooreedo\Xml;
+namespace eliechaaban\Ooredoo\Xml;
 
 
 use Exception;

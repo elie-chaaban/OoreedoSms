@@ -1,13 +1,13 @@
 <?php
 
 
-namespace eliechaaban\Ooreedo;
+namespace eliechaaban\Ooredoo;
 
 
-use eliechaaban\Ooreedo\Soap\Models\SoapUser;
-use eliechaaban\Ooreedo\Soap\Requests\GetSmsStatusRequest;
-use eliechaaban\Ooreedo\Soap\Requests\SendSMSRequest;
-use eliechaaban\Ooreedo\Soap\Services\Message;
+use eliechaaban\Ooredoo\Soap\Models\SoapUser;
+use eliechaaban\Ooredoo\Soap\Requests\GetSmsStatusRequest;
+use eliechaaban\Ooredoo\Soap\Requests\SendSMSRequest;
+use eliechaaban\Ooredoo\Soap\Services\Message;
 use Exception;
 use SoapFault;
 

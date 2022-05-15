@@ -1,7 +1,7 @@
 <?php
 
 
-namespace eliechaaban\Ooreedo\Soap\Models;
+namespace eliechaaban\Ooredoo\Soap\Models;
 
 
 class SoapUser {

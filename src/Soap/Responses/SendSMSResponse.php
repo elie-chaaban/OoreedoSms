@@ -1,10 +1,10 @@
 <?php
 
 
-namespace eliechaaban\Ooreedo\Soap\Responses;
+namespace eliechaaban\Ooredoo\Soap\Responses;
 
 
-use eliechaaban\Ooreedo\Soap\Models\SendSmsResult;
+use eliechaaban\Ooredoo\Soap\Models\SendSmsResult;
 use RuntimeException;
 
 class SendSMSResponse {

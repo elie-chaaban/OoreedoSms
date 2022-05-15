@@ -1,7 +1,7 @@
 <?php
 
 
-namespace eliechaaban\Ooreedo\Soap\Requests;
+namespace eliechaaban\Ooredoo\Soap\Requests;
 
 class SendSMSRequest {
     public $user           = null;

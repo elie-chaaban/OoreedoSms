@@ -1,7 +1,7 @@
 <?php
 
 
-namespace eliechaaban\Ooreedo\Soap;
+namespace eliechaaban\Ooredoo\Soap;
 
 use SoapClient;
 use SoapFault;
